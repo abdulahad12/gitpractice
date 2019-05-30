@@ -1,6 +1,10 @@
-naveed
+git init
 
-bsse
+git add -A
 
+git commit -m "message "
 
-some
+git clone url
+
+git push
+
